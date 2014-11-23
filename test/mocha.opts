@@ -1,4 +1,3 @@
 --reporter spec
---watch
 --require ./test/test-helper.js
 --timeout 10000
