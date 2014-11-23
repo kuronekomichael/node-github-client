@@ -1,6 +1,6 @@
 var Client = require('../lib/client');
 
-describe('contents', function() {
+describe('api.github.com', function() {
     var client;
     before(function() {
         client = new Client();
