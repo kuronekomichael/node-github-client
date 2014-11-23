@@ -2,7 +2,7 @@ node-github-client
 ==================
 
 [![NPM version][npm-badge]](http://badge.fury.io/js/doit-im)
-[![Build status][travis-badge]](https://travis-ci.org/kuronekomichael/node-github-client)
+[![Build Status](https://travis-ci.org/kuronekomichael/node-github-client.svg)](https://travis-ci.org/kuronekomichael/node-github-client)
 [npm-badge]: https://badge.fury.io/js/doit-im.png
 [travis-badge]: https://travis-ci.org/kuronekomichael/node-github-client.png?branch=master
 
